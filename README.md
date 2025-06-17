@@ -1,6 +1,7 @@
 # gym_app
 
 A new Flutter project.
+Universal key for auth: 148d4e1b-4281-4a10-ab92-5746e39a2893
 
 ## Getting Started
 
